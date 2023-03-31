@@ -1,0 +1,6 @@
+/fashion_dataset
+/lightning_logs
+/graphs
+model.pt
+/tests
+/__pycache__
